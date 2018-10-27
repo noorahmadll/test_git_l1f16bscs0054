@@ -1,3 +1,5 @@
 Name: Ahmad Noor
+=======
+Name: Noor Ahmad
 Email: noor_ahmad@ucp.edu.pk
 Faculty of Information Technology
